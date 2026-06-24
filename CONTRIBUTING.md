@@ -22,8 +22,15 @@ Thanks for helping grow this collection! Portfolio Bank is a curated list — qu
 3. Use this table row format:
 
 ```markdown
-| [Template Name](https://github.com/user/repo) | ![stars](https://img.shields.io/github/stars/user/repo?style=flat) | One-line highlight | [demo-url](https://...) | [Link](https://github.com/user/repo) |
+| [Template Name](https://github.com/user/repo) | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ★★★★☆ | ![stars](https://img.shields.io/github/stars/user/repo?style=flat) | One-line highlight | [demo-url](https://...) | [Link](https://github.com/user/repo) |
 ```
+
+**Price badges** — pick one:
+- Free: `![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square)`
+- Freemium: `![freemium](https://img.shields.io/badge/price-freemium-3b82f6?style=flat-square)`
+- Paid: `![paid](https://img.shields.io/badge/price-paid-f97316?style=flat-square)`
+
+**Rating** — editorial score out of 5 using stars (`★★★★★` to `★☆☆☆☆`), or `—` if not yet reviewed.
 
 4. Open a pull request with:
    - Template name and why it's worth including
@@ -35,7 +42,8 @@ Thanks for helping grow this collection! Portfolio Bank is a curated list — qu
 - [ ] Live demo link works
 - [ ] GitHub repo is public and open source
 - [ ] Entry is in the correct category
-- [ ] One-line description is accurate and concise
+- [ ] Price tag is correct (free / freemium / paid)
+- [ ] Rating included if you've tested the template (or `—` if not)
 - [ ] No duplicate of an existing entry
 
 ## Suggesting removals
