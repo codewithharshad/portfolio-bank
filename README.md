@@ -63,6 +63,7 @@ Edit the config file (`config.js`, `portfolio.config.ts`, or `src/content/`) wit
 - [React](#react)
 - [Astro & modern static](#astro--modern-static)
 - [Vanilla HTML / CSS / JS](#vanilla-html--css--js)
+- [Animated portfolio](#animated-portfolio)
 - [How we pick templates](#how-we-pick-templates)
 - [Contributing](#contributing)
 
@@ -77,7 +78,7 @@ The [portfolio-template topic](https://github.com/topics/portfolio-template) has
 - **Fast** — clone, use as template, or download ZIP in seconds
 - **Open source** — free and freemium **portfolio templates** for developers, designers, and students
 
-**Stack coverage:** Next.js portfolio templates · React portfolio templates · Astro static portfolios · HTML/CSS/JS portfolios · GitHub Pages–ready sites
+**Stack coverage:** Next.js portfolio templates · React portfolio templates · Astro static portfolios · HTML/CSS/JS portfolios · Animated portfolios · GitHub Pages–ready sites
 
 If this list helped you, **star the repo** — stars help it rank on [GitHub Topics](https://github.com/topics/portfolio-template) so more developers find it.
 
@@ -138,6 +139,20 @@ No build step required — perfect for beginners or GitHub Pages.
 | Template | 💰 | Rating | Stars | Highlights | Links |
 |----------|:--:|:------:|:-----:|------------|:-----:|
 | **[vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)**<br><sub>`HTML` · `CSS` · `JS`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-not%20rated-94a3b8?style=flat-square) | ![stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=flat-square) | Beautiful vCard-style design | [Demo](https://codewithsadee.github.io/vcard-personal-portfolio) · [Code](https://github.com/codewithsadee/vcard-personal-portfolio) |
+
+---
+
+## Animated portfolio
+
+Templates with motion, scroll effects, 3D, and interactive UI — for portfolios that feel alive.
+
+| Template | 💰 | Rating | Stars | Highlights | Links |
+|----------|:--:|:------:|:-----:|------------|:-----:|
+| **[Hailee Portfolio](https://github.com/S44WN/hailee-portfolio-website)**<br><sub>`HTML` · `CSS` · `JavaScript`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-not%20rated-94a3b8?style=flat-square) | ![stars](https://img.shields.io/github/stars/S44WN/hailee-portfolio-website?style=flat-square) | Built from scratch, dark/light mode, smooth section animations | [Demo](https://hailee.netlify.app/) · [Code](https://github.com/S44WN/hailee-portfolio-website) |
+| **[Next Portfolio](https://github.com/sanidhyy/next-portfolio)**<br><sub>`Next.js` · `Three.js` · `Tailwind` · `Aceternity UI`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-4%2F5-84cc16?style=flat-square&logo=star&logoColor=white) | ![stars](https://img.shields.io/github/stars/sanidhyy/next-portfolio?style=flat-square) | 3D portfolio, GSAP + Framer Motion, modern minimalist UI | [Demo](https://portfolionext-js.netlify.app/) · [Code](https://github.com/sanidhyy/next-portfolio) |
+| **[DevFolioX](https://github.com/Muhammad-Taqi-Dev/DevFolioX)**<br><sub>`Next.js 15` · `TypeScript` · `Tailwind`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-not%20rated-94a3b8?style=flat-square) | ![stars](https://img.shields.io/github/stars/Muhammad-Taqi-Dev/DevFolioX?style=flat-square) | Framer Motion, typing effects, Brevo contact form | [Demo](https://dev-folio-x.vercel.app/) · [Code](https://github.com/Muhammad-Taqi-Dev/DevFolioX) |
+| **[Next.js Developer Portfolio Starter](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code)**<br><sub>`Next.js` · `Tailwind` · `Framer Motion`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-4.5%2F5-22c55e?style=flat-square&logo=star&logoColor=white) | ![stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=flat-square) | Popular starter with scroll animations, project showcase, testimonials | [Demo](https://minimal-nextjs-portfolio-website.vercel.app/) · [Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) |
+| **[React Bits Pro](https://github.com/DavidHDev/rbp-portfolio)**<br><sub>`Next.js 16` · `WebGL` · `Tailwind v4`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-4%2F5-84cc16?style=flat-square&logo=star&logoColor=white) | ![stars](https://img.shields.io/github/stars/DavidHDev/rbp-portfolio?style=flat-square) | WebGL flow shader, Lenis smooth scroll, magnetic portrait morph | [Demo](https://rbp-portfolio.vercel.app) · [Code](https://github.com/DavidHDev/rbp-portfolio) |
 
 ---
 
