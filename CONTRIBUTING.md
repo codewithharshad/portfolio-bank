@@ -18,17 +18,11 @@ Thanks for helping grow this collection! Portfolio Bank is a curated list — qu
 ## How to add a template
 
 1. Fork this repo
-2. Add your entry to the **most relevant category** in `README.md`
-3. Use this card format (inside the matching `<details>` section):
+2. Add a row to the **most relevant category** table in `README.md`
+3. Use this row format:
 
 ```markdown
-> ### [Template Name](https://github.com/user/repo)
->
-> ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) ![rating](https://img.shields.io/badge/rating-not%20rated-94a3b8?style=flat-square) ![stars](https://img.shields.io/github/stars/user/repo?style=flat-square)
->
-> One-line highlight
->
-> 🔗 [Live demo](https://demo-url) · 📦 [Source code](https://github.com/user/repo)
+| **[Template Name](https://github.com/user/repo)**<br><sub>`Stack` · `tags`</sub> | ![free](https://img.shields.io/badge/price-free-22c55e?style=flat-square) | ![rating](https://img.shields.io/badge/rating-not%20rated-94a3b8?style=flat-square) | ![stars](https://img.shields.io/github/stars/user/repo?style=flat-square) | One-line highlight | [Demo](https://demo-url) · [Code](https://github.com/user/repo) |
 ```
 
 **Price badges** — pick one:
